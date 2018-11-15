@@ -1,0 +1,6 @@
+C:\Users\matias.caceres\source\repos\Ejercicio18\Geometría\bin\Debug\Geometría.dll
+C:\Users\matias.caceres\source\repos\Ejercicio18\Geometría\bin\Debug\Geometría.pdb
+C:\Users\matias.caceres\source\repos\Ejercicio18\Geometría\obj\Debug\Geometría.csprojAssemblyReference.cache
+C:\Users\matias.caceres\source\repos\Ejercicio18\Geometría\obj\Debug\Geometría.csproj.CoreCompileInputs.cache
+C:\Users\matias.caceres\source\repos\Ejercicio18\Geometría\obj\Debug\Geometría.dll
+C:\Users\matias.caceres\source\repos\Ejercicio18\Geometría\obj\Debug\Geometría.pdb

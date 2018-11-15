@@ -1,0 +1,13 @@
+C:\Users\matias.caceres\source\repos\Ejercicio23\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\matias.caceres\source\repos\Ejercicio23\Formulario\bin\Debug\Formulario.exe
+C:\Users\matias.caceres\source\repos\Ejercicio23\Formulario\bin\Debug\Formulario.pdb
+C:\Users\matias.caceres\source\repos\Ejercicio23\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\Users\matias.caceres\source\repos\Ejercicio23\Formulario\obj\Debug\Formulario.ConversorDinero.resources
+C:\Users\matias.caceres\source\repos\Ejercicio23\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\matias.caceres\source\repos\Ejercicio23\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\matias.caceres\source\repos\Ejercicio23\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\matias.caceres\source\repos\Ejercicio23\Formulario\obj\Debug\Formulario.exe
+C:\Users\matias.caceres\source\repos\Ejercicio23\Formulario\obj\Debug\Formulario.pdb
+C:\Users\matias.caceres\source\repos\Ejercicio23\Formulario\bin\Debug\Moneda.dll
+C:\Users\matias.caceres\source\repos\Ejercicio23\Formulario\bin\Debug\Moneda.pdb
+C:\Users\matias.caceres\source\repos\Ejercicio23\Formulario\obj\Debug\Formulario.csproj.CopyComplete

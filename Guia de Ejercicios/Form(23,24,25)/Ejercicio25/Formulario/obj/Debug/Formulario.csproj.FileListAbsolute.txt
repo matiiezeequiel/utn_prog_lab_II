@@ -1,0 +1,13 @@
+C:\Users\matias.caceres\source\repos\Ejercicio25\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\matias.caceres\source\repos\Ejercicio25\Formulario\bin\Debug\Formulario.exe
+C:\Users\matias.caceres\source\repos\Ejercicio25\Formulario\bin\Debug\Formulario.pdb
+C:\Users\matias.caceres\source\repos\Ejercicio25\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\Users\matias.caceres\source\repos\Ejercicio25\Formulario\obj\Debug\Formulario.ConversorNumerico.resources
+C:\Users\matias.caceres\source\repos\Ejercicio25\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\matias.caceres\source\repos\Ejercicio25\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\matias.caceres\source\repos\Ejercicio25\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\matias.caceres\source\repos\Ejercicio25\Formulario\obj\Debug\Formulario.exe
+C:\Users\matias.caceres\source\repos\Ejercicio25\Formulario\obj\Debug\Formulario.pdb
+C:\Users\matias.caceres\source\repos\Ejercicio25\Formulario\bin\Debug\Entidades.dll
+C:\Users\matias.caceres\source\repos\Ejercicio25\Formulario\bin\Debug\Entidades.pdb
+C:\Users\matias.caceres\source\repos\Ejercicio25\Formulario\obj\Debug\Formulario.csproj.CopyComplete

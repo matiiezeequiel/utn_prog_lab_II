@@ -1,0 +1,10 @@
+C:\Users\matias.caceres\source\repos\Ejercicio18\PruebaGeometria\bin\Debug\PruebaGeometria.exe.config
+C:\Users\matias.caceres\source\repos\Ejercicio18\PruebaGeometria\bin\Debug\PruebaGeometria.exe
+C:\Users\matias.caceres\source\repos\Ejercicio18\PruebaGeometria\bin\Debug\PruebaGeometria.pdb
+C:\Users\matias.caceres\source\repos\Ejercicio18\PruebaGeometria\bin\Debug\Geometría.dll
+C:\Users\matias.caceres\source\repos\Ejercicio18\PruebaGeometria\bin\Debug\Geometría.pdb
+C:\Users\matias.caceres\source\repos\Ejercicio18\PruebaGeometria\obj\Debug\PruebaGeometria.csprojAssemblyReference.cache
+C:\Users\matias.caceres\source\repos\Ejercicio18\PruebaGeometria\obj\Debug\PruebaGeometria.csproj.CoreCompileInputs.cache
+C:\Users\matias.caceres\source\repos\Ejercicio18\PruebaGeometria\obj\Debug\PruebaGeometria.csproj.CopyComplete
+C:\Users\matias.caceres\source\repos\Ejercicio18\PruebaGeometria\obj\Debug\PruebaGeometria.exe
+C:\Users\matias.caceres\source\repos\Ejercicio18\PruebaGeometria\obj\Debug\PruebaGeometria.pdb

@@ -1,0 +1,7 @@
+C:\Users\matias.caceres\source\repos\Ejercicio20\Consola\bin\Debug\Consola.exe.config
+C:\Users\matias.caceres\source\repos\Ejercicio20\Consola\bin\Debug\Consola.exe
+C:\Users\matias.caceres\source\repos\Ejercicio20\Consola\bin\Debug\Consola.pdb
+C:\Users\matias.caceres\source\repos\Ejercicio20\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\matias.caceres\source\repos\Ejercicio20\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\matias.caceres\source\repos\Ejercicio20\Consola\obj\Debug\Consola.exe
+C:\Users\matias.caceres\source\repos\Ejercicio20\Consola\obj\Debug\Consola.pdb
