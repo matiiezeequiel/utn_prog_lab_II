@@ -1,0 +1,11 @@
+C:\Users\matias.caceres\source\repos\CentralTelefonica\Test\bin\Debug\Test.exe.config
+C:\Users\matias.caceres\source\repos\CentralTelefonica\Test\bin\Debug\Test.exe
+C:\Users\matias.caceres\source\repos\CentralTelefonica\Test\bin\Debug\Test.pdb
+C:\Users\matias.caceres\source\repos\CentralTelefonica\Test\bin\Debug\CentralitaHerencia.exe
+C:\Users\matias.caceres\source\repos\CentralTelefonica\Test\bin\Debug\CentralitaHerencia.pdb
+C:\Users\matias.caceres\source\repos\CentralTelefonica\Test\bin\Debug\CentralitaHerencia.exe.config
+C:\Users\matias.caceres\source\repos\CentralTelefonica\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\matias.caceres\source\repos\CentralTelefonica\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\matias.caceres\source\repos\CentralTelefonica\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\matias.caceres\source\repos\CentralTelefonica\Test\obj\Debug\Test.exe
+C:\Users\matias.caceres\source\repos\CentralTelefonica\Test\obj\Debug\Test.pdb

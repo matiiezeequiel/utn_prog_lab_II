@@ -1,0 +1,16 @@
+C:\Users\matias.caceres\source\repos\CentralTelefonica\CentralitaFormulario\bin\Debug\CentralitaFormulario.exe.config
+C:\Users\matias.caceres\source\repos\CentralTelefonica\CentralitaFormulario\bin\Debug\CentralitaFormulario.exe
+C:\Users\matias.caceres\source\repos\CentralTelefonica\CentralitaFormulario\bin\Debug\CentralitaFormulario.pdb
+C:\Users\matias.caceres\source\repos\CentralTelefonica\CentralitaFormulario\bin\Debug\CentralitaHerencia.exe
+C:\Users\matias.caceres\source\repos\CentralTelefonica\CentralitaFormulario\bin\Debug\CentralitaHerencia.pdb
+C:\Users\matias.caceres\source\repos\CentralTelefonica\CentralitaFormulario\bin\Debug\CentralitaHerencia.exe.config
+C:\Users\matias.caceres\source\repos\CentralTelefonica\CentralitaFormulario\obj\Debug\CentralitaFormulario.csprojAssemblyReference.cache
+C:\Users\matias.caceres\source\repos\CentralTelefonica\CentralitaFormulario\obj\Debug\CentralitaFormulario.FrmLlamador.resources
+C:\Users\matias.caceres\source\repos\CentralTelefonica\CentralitaFormulario\obj\Debug\CentralitaFormulario.FrmMenu.resources
+C:\Users\matias.caceres\source\repos\CentralTelefonica\CentralitaFormulario\obj\Debug\CentralitaFormulario.FrmMostrar.resources
+C:\Users\matias.caceres\source\repos\CentralTelefonica\CentralitaFormulario\obj\Debug\CentralitaFormulario.Properties.Resources.resources
+C:\Users\matias.caceres\source\repos\CentralTelefonica\CentralitaFormulario\obj\Debug\CentralitaFormulario.csproj.GenerateResource.cache
+C:\Users\matias.caceres\source\repos\CentralTelefonica\CentralitaFormulario\obj\Debug\CentralitaFormulario.csproj.CoreCompileInputs.cache
+C:\Users\matias.caceres\source\repos\CentralTelefonica\CentralitaFormulario\obj\Debug\CentralitaFormulario.csproj.CopyComplete
+C:\Users\matias.caceres\source\repos\CentralTelefonica\CentralitaFormulario\obj\Debug\CentralitaFormulario.exe
+C:\Users\matias.caceres\source\repos\CentralTelefonica\CentralitaFormulario\obj\Debug\CentralitaFormulario.pdb
