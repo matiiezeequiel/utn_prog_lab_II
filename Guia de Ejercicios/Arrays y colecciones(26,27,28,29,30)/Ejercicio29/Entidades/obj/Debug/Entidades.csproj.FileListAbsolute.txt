@@ -1,0 +1,12 @@
+C:\Users\matias.caceres\source\repos\Ejercicio29\Entidades\bin\Debug\Entidades.dll
+C:\Users\matias.caceres\source\repos\Ejercicio29\Entidades\bin\Debug\Entidades.pdb
+C:\Users\matias.caceres\source\repos\Ejercicio29\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\matias.caceres\source\repos\Ejercicio29\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\matias.caceres\source\repos\Ejercicio29\Entidades\obj\Debug\Entidades.dll
+C:\Users\matias.caceres\source\repos\Ejercicio29\Entidades\obj\Debug\Entidades.pdb
+C:\Users\matias.caceres\Desktop\facu\utn_prog_lab_II\Guia de Ejercicios\Arrays y colecciones(26,27,28,29,30)\Ejercicio29\Entidades\bin\Debug\Entidades.dll
+C:\Users\matias.caceres\Desktop\facu\utn_prog_lab_II\Guia de Ejercicios\Arrays y colecciones(26,27,28,29,30)\Ejercicio29\Entidades\bin\Debug\Entidades.pdb
+C:\Users\matias.caceres\Desktop\facu\utn_prog_lab_II\Guia de Ejercicios\Arrays y colecciones(26,27,28,29,30)\Ejercicio29\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\matias.caceres\Desktop\facu\utn_prog_lab_II\Guia de Ejercicios\Arrays y colecciones(26,27,28,29,30)\Ejercicio29\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\matias.caceres\Desktop\facu\utn_prog_lab_II\Guia de Ejercicios\Arrays y colecciones(26,27,28,29,30)\Ejercicio29\Entidades\obj\Debug\Entidades.dll
+C:\Users\matias.caceres\Desktop\facu\utn_prog_lab_II\Guia de Ejercicios\Arrays y colecciones(26,27,28,29,30)\Ejercicio29\Entidades\obj\Debug\Entidades.pdb

@@ -5,3 +5,10 @@ C:\Users\matias.caceres\source\repos\Ejercicio20\Consola\obj\Debug\Consola.cspro
 C:\Users\matias.caceres\source\repos\Ejercicio20\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
 C:\Users\matias.caceres\source\repos\Ejercicio20\Consola\obj\Debug\Consola.exe
 C:\Users\matias.caceres\source\repos\Ejercicio20\Consola\obj\Debug\Consola.pdb
+C:\Users\matias.caceres\Desktop\facu\utn_prog_lab_II\Guia de Ejercicios\Sobrecarga de operadores(19,20,21,22)\Ejercicio20\Consola\bin\Debug\Consola.exe.config
+C:\Users\matias.caceres\Desktop\facu\utn_prog_lab_II\Guia de Ejercicios\Sobrecarga de operadores(19,20,21,22)\Ejercicio20\Consola\bin\Debug\Consola.exe
+C:\Users\matias.caceres\Desktop\facu\utn_prog_lab_II\Guia de Ejercicios\Sobrecarga de operadores(19,20,21,22)\Ejercicio20\Consola\bin\Debug\Consola.pdb
+C:\Users\matias.caceres\Desktop\facu\utn_prog_lab_II\Guia de Ejercicios\Sobrecarga de operadores(19,20,21,22)\Ejercicio20\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\matias.caceres\Desktop\facu\utn_prog_lab_II\Guia de Ejercicios\Sobrecarga de operadores(19,20,21,22)\Ejercicio20\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\matias.caceres\Desktop\facu\utn_prog_lab_II\Guia de Ejercicios\Sobrecarga de operadores(19,20,21,22)\Ejercicio20\Consola\obj\Debug\Consola.exe
+C:\Users\matias.caceres\Desktop\facu\utn_prog_lab_II\Guia de Ejercicios\Sobrecarga de operadores(19,20,21,22)\Ejercicio20\Consola\obj\Debug\Consola.pdb

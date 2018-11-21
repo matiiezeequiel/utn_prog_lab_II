@@ -1,0 +1,10 @@
+C:\Users\matias.caceres\source\repos\Ejercicio28\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\matias.caceres\source\repos\Ejercicio28\Formulario\bin\Debug\Formulario.exe
+C:\Users\matias.caceres\source\repos\Ejercicio28\Formulario\bin\Debug\Formulario.pdb
+C:\Users\matias.caceres\source\repos\Ejercicio28\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\Users\matias.caceres\source\repos\Ejercicio28\Formulario\obj\Debug\Formulario.Form1.resources
+C:\Users\matias.caceres\source\repos\Ejercicio28\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\matias.caceres\source\repos\Ejercicio28\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\matias.caceres\source\repos\Ejercicio28\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\matias.caceres\source\repos\Ejercicio28\Formulario\obj\Debug\Formulario.exe
+C:\Users\matias.caceres\source\repos\Ejercicio28\Formulario\obj\Debug\Formulario.pdb

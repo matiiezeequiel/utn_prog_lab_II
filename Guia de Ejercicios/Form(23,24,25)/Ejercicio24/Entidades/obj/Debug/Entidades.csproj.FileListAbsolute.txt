@@ -1,0 +1,5 @@
+C:\Users\matias.caceres\source\repos\Ejercicio24\Entidades\bin\Debug\Entidades.dll
+C:\Users\matias.caceres\source\repos\Ejercicio24\Entidades\bin\Debug\Entidades.pdb
+C:\Users\matias.caceres\source\repos\Ejercicio24\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\matias.caceres\source\repos\Ejercicio24\Entidades\obj\Debug\Entidades.dll
+C:\Users\matias.caceres\source\repos\Ejercicio24\Entidades\obj\Debug\Entidades.pdb
